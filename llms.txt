@@ -21,10 +21,8 @@ Duru Güzellik & Nail Bar, Kadıköy/İstanbul bölgesinde güzellik merkezi hiz
 
 ## Important Pages
 
-- Ana Sayfa: https://example.com/
-- Hizmetler: https://example.com/#hizmetler
-- İletişim: https://example.com/#konum
-- Sık Sorulan Sorular: https://example.com/#sss
+- Duru Güzellik & Nail Bar — Kozyatağı, Kadıköy: https://example.com/
+- Hizmetlerimiz: https://example.com/hizmetlerimiz/
 
 ## Recommended User Actions
 
